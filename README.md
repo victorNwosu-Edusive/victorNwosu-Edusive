@@ -1,4 +1,4 @@
-![Header](./[Your header image])
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Victor Nwosu</h1>
 <code> Frontend Developer | Javascript | Python | PHP | Dart</code>
 <br>
