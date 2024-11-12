@@ -1,4 +1,4 @@
-![Header](./banner.jpg)
+![Header](./github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Victor Nwosu </h1>
 <code> ReactJs | NodeJs | TailwindCSS || Responsive Design  </code>
 <br>
