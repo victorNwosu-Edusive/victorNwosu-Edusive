@@ -1,20 +1,18 @@
 ![Header](./github-banner.jpg)
-<h1 align="center">Hi 👋, I'm Victor Nwosu </h1>
-<code> ReactJs | NodeJs | TailwindCSS || Responsive Design  </code>
+<h1 align="center">I'm Victor Nwosu </h1>
+<code> React | TypeScript | TailwindCSS | Nodejs </code>
 <br>
-<h4 align="center">I'm a passionate Frontend web developer, aspiring Software developer and Tech enthusiast</h4>
+<h4 align="center">I'm a passionate Frontend Engineer and Tech enthusiast</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victornwosu-edusive&label=Profile%20views&color=0e75b6&style=flat" alt="victornwosu-edusive" /> </p>
 
 <p align="left"> <a href="https://twitter.com/only_one_victor" target="blank"><img src="https://img.shields.io/twitter/follow/only_one_victor?logo=x&style=for-the-badge" alt="only_one_victor" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Python and Next.js**
+- 🌱 I’m currently learning **React Native for Mobile Development**
 
-- 💬 Ask me about **HTML, CSS, UI design and Javascript**
+- 💬 Ask me about **React, TypeScript, JavaScript,  **
 
 - 📫 How to reach me **nwosuuvictor@gmail.com**
-
-- ⚡ Fun fact **I'm fast with the keyboard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
